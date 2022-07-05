@@ -4,4 +4,4 @@
 
 ## About
 - A science fiction themed text based adventure
-- The player reads the story then choosen what action to take next
+- The player reads the story then chooses what action to take next
